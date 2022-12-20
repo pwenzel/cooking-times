@@ -1,2 +1,2 @@
-# cooking-times
+# Instant Pot Cooking Times
 https://cookingtimes.info
